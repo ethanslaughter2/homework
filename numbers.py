@@ -16,3 +16,7 @@ def main():
 def calculate(num1, num2):
     if num1 > num2:
         print('Num 1 is bigger than num 2')
+    elif num1 < num2:
+        print('Num2 is bigger than num 1')
+    elif num1 = num2:
+        print('Num 1 is equal to num2')
